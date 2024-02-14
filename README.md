@@ -23,3 +23,5 @@ Kurulum
 Bu depoyu yerel makinenize klonlayın veya ZIP dosyası olarak indirin.
 İndirdiğiniz dizine gidin ve index.html dosyasını bir web tarayıcısında açın.
 Artık Yapılacaklar Listesi uygulamasını kullanabilirsiniz!
+
+![image](https://github.com/harunozturk78/todolist/assets/140824028/8437dccb-45c4-4736-9cdd-7a39a10d9564)
