@@ -17,13 +17,16 @@ Etiketlere göre gruplama ve filtreleme
 Local Storage desteği: Verilerinizi tarayıcıda saklama ve yeniden yükleme
 
 Kullanım
+
 Ana sayfada, "Yeni bir görev ekle" alanına görev metnini ve bir etiket girmeniz gerekmektedir.
 "Ekle" butonuna tıkladığınızda, yeni görev listenize eklenir.
 Eklenen görevleri tamamlamak için yanındaki "✓" simgesine tıklayın.
 Görevleri silmek için yanındaki "Sil" butonuna tıklayın.
 Etiketlerle görevleri gruplamak ve filtrelemek için etiket başlıklarına tıklayın veya arama çubuğunu kullanın.
 Tüm görevleri temizlemek için "Tümünü Sil" butonuna tıklayın.
+
 Teknolojiler
+
 HTML
 
 CSS
