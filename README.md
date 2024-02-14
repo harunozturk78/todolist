@@ -1,4 +1,5 @@
-Yapılacaklar Listesi Uygulaması ;
+Yapılacaklar Listesi Uygulaması 
+
 Bu basit web uygulaması, kullanıcıların yapılacaklar listesini tutmalarına ve yönetmelerine olanak tanır. Kullanıcılar, her görevi bir etiketle ilişkilendirerek ve görevler arasında arama yaparak işleri organize edebilirler.
 
 Özellikler :
